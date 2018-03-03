@@ -1,3 +1,3 @@
 # Titanic-GP
-Genetic Programming Algorithm
+Genetic Programming Algorithm.
 Preprocessing, selection, mutation on Kaggle Titanic dataset
